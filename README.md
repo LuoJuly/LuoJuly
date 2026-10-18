@@ -42,7 +42,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=LuoJuly&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuoJuly&layout=normal&langs_count=8&hide_border=true" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuoJuly&layout=compact&langs_count=8&hide_border=true" alt="Top Languages">
     </td>
   </tr>
 </table>
