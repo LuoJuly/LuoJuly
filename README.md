@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm LuoJuly 👋</h1>
 
 <p align="center">
-  Android 内核 & 设备树 / ROM 移植 · 嵌入式 IoT · 构建脚本与工具
+  Android kernel & device tree · ROM / recovery porting · Embedded IoT · Build tooling
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠 技术栈 / Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
@@ -34,7 +34,7 @@
 
 ---
 
-### 📊 GitHub 统计 / Stats
+### 📊 GitHub Stats
 
 <table align="center">
   <tr>
@@ -53,24 +53,17 @@
 
 ---
 
-### 🔎 项目方向 / Focus
+### 🔎 Focus
 
-- **Android 内核与 ROM** — Motorola sm7325 / xpeng，KernelSU & SUSFS、设备树、TWRP Recovery
-- **嵌入式与 IoT** — ESP32-S3 PC 监控、Snapmaker SACP、3D 打印机主控固件
-- **工具与网络** — ipk2ipkg（OpenWrt → iKuai）、Moto 刷机脚本、4K 电视校准测试
-- **主题与定制** — H₂-Styles 图标包、WordPress 主题定制
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuoJuly&style=flat-square&color=blue" alt="Profile views">
-</p>
+- **Android Kernel & ROM** — Motorola sm7325 / xpeng, KernelSU & SUSFS, device trees, TWRP recovery
+- **Embedded & IoT** — ESP32-S3 PC monitor, Snapmaker SACP, 3D printer main-controller firmware
+- **Tools & Networking** — ipk2ipkg (OpenWrt → iKuai), Motorola flashing scripts, 4K TV calibration test
+- **Theming & Customization** — H₂-Styles icon packs, WordPress theme customization
 
 <!--
-  使用方法：
-  1) 在你的账号下新建一个与自己用户名同名的仓库：LuoJuly/LuoJuly（Public）。
-  2) 把本文件内容保存为该仓库根目录下的 README.md 并推送。
-  3) 打开 github.com/LuoJuly 即可看到本 README 渲染在个人主页顶部。
-  注：github-readme-stats 官方实例有时会被限流；若图片不刷新，
-  可把域名换成自部署的 Vercel 实例，或改用下方 GitHub Action 方案实时生成 SVG。
+  This is the special profile repository: LuoJuly/LuoJuly.
+  Its README.md renders at the top of https://github.com/LuoJuly.
+  Note: the official github-readme-stats instance is occasionally rate-limited;
+  if a card stops refreshing, point it at a self-hosted Vercel instance or use
+  the lowlighter/metrics GitHub Action to regenerate the SVGs daily.
 -->
