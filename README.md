@@ -39,10 +39,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LuoJuly&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats">
+      <img src="https://github-stats-extended.vercel.app/api?username=LuoJuly&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuoJuly&layout=compact&langs_count=8&hide_border=true" alt="Top Languages">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuoJuly&layout=compact&langs_count=8&hide_border=true" alt="Top Languages">
     </td>
   </tr>
 </table>
@@ -63,7 +63,6 @@
 <!--
   This is the special profile repository: LuoJuly/LuoJuly.
   Its README.md renders at the top of https://github.com/LuoJuly.
-  Note: the official github-readme-stats instance is occasionally rate-limited;
-  if a card stops refreshing, point it at a self-hosted Vercel instance or use
-  the lowlighter/metrics GitHub Action to regenerate the SVGs daily.
+  Note: github-readme-stats.vercel.app is paused (503 DEPLOYMENT_PAUSED).
+  These cards use the maintained github-stats-extended instance instead.
 -->
