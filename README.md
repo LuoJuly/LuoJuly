@@ -55,30 +55,10 @@
 
 ### 🔎 Focus
 
-**Android kernel & ROM**
-
-- [sm7325 kernel](https://github.com/LuoJuly/android_kernel_motorola_sm7325) — LineageOS 23.2 for xpeng, berlin, berlna, dubai, and tundra. One branch carries ReSukiSU; another adds SUSFS, Re-Kernel, and Droidspaces. The [xpeng boot build](https://github.com/LuoJuly/android_kernel_motorola_sm7325_build) runs on the 20th of each month.
-- [xpeng kernel](https://github.com/LuoJuly/android_kernel_motorola_xpeng) — myui/helloui, 5.4.210 baseline and 5.4.302. [Build branches](https://github.com/LuoJuly/android_kernel_motorola_xpeng_build) cover 5.4.302 and S3RXC32.33-8-29.
-- [xpeng device tree](https://github.com/LuoJuly/android_device_motorola_xpeng) — LineageOS 23.2 with Dolby Atmos. [TWRP](https://github.com/LuoJuly/twrp_android_device_motorola_xpeng) and its [build script](https://github.com/LuoJuly/twrp_android_device_motorola_xpeng_build).
-
-**Embedded, 3D printing, and IoT**
-
-- [ESP32 PC Monitor](https://github.com/LuoJuly/ESP32_PC_Monitor) — PC metrics on a Waveshare ESP32-S3 1.75 inch round display, fed by a TrafficMonitor plugin over USB or Bluetooth.
-- [Artisan-Controller](https://github.com/LuoJuly/Artisan-Controller) — Snapmaker Artisan main-controller firmware based on Marlin.
-- [Snapmaker SACP](https://github.com/LuoJuly/Snapmaker-SACP) — SACP protocol docs and SDK.
-- [Simplify3D Chinese Language Pack](https://github.com/LuoJuly/Simplify3D_Chinese_Language_Pack) — Simplified Chinese launcher for an installed Simplify3D. The installed program is left unchanged.
-
-**Tools**
-
-- [ipk2ipkg](https://github.com/LuoJuly/ipk2ipkg) — convert OpenWrt IPK packages into iKuai 4.0 App Market IPKG files.
-- [Moto RSD Lite](https://github.com/LuoJuly/Moto-RSD-Lite-Windows-Mac-Linux) — flash Motorola firmware on Windows, macOS, and Linux.
-- [4K TV calibration](https://github.com/LuoJuly/TV_Screen_4K_Calibration_TEST) — screen calibration test for 4K Android TVs.
-- [BMS for Wear OS](https://github.com/LuoJuly/BMS_app_WearOS) — read-only BLE battery-management app for the first-generation square Xiaomi Watch.
-
-**Theming**
-
-- [H₂-Styles](https://github.com/LuoJuly/H-Styles_Icon_Packs) — icon packs for Android.
-- [Twenty Fifteen](https://github.com/LuoJuly/Twenty-Fifteen-Theme) — customization of the WordPress Twenty Fifteen theme.
+- **Android kernel & ROM** — Motorola phone kernels, device trees, root support, and recovery porting.
+- **Embedded, 3D printing, and IoT** — Small-display monitors, printer controller firmware, and slicer localization.
+- **Tools** — Package conversion, phone flashing, display calibration, and a watch battery reader.
+- **Theming** — Android icon packs and WordPress theme customization.
 
 <!--
   This is the special profile repository: LuoJuly/LuoJuly.
